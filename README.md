@@ -52,7 +52,7 @@ Returns data read as an `Array`.
 `MetaView.writeFloat32 (data)`
 `MetaView.writeFloat64 (data)`
 
-Writes `data` - an `Array` of integers - to the buffer.
+Writes `data` - an `Array` of `Number` objects - to the buffer.
 
 `MetaView.finalize ()`
 
